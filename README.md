@@ -25,3 +25,12 @@
 - 32rd SOPKATON "소문나" (인기상🥇) Team Leader
 - 32rd APPZAM "PUZZLING" (최우수상🥇) Team Leader
 ```
+### ✨ Award
+**ACM-ICPC 학교별 예선(2022)**
+2023 10월 우수상 수상
+
+**ACM-ICPC 학교별 예선(2023)**
+2023 10월 대상 수상
+
+**구름톤 8기 in JEJU(2023.11.29 ~ 2023.12.1)**
+기획자로 참여 최우수상 수상
