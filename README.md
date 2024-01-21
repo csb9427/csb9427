@@ -27,7 +27,7 @@
 - 32rd APPZAM "PUZZLING" (최우수상🥈) Team Leader
 
 [2023.09-2024.02] | "대학생IT연합동아리 SOPT 서버파트: spring 33기"
-- 33rd APPZAM "SOPETIT" (미정🥇) Server Leader
+- 33rd APPZAM "SOPETIT" (우수상🥇) Server Leader
 
 [2024.01-ing] | "SSAPY 전공 자바반 11기"
 
