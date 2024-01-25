@@ -30,7 +30,7 @@
 - 33rd APPZAM "SOPETIT" (우수상🥇) Server Leader
 
 [2024.01-ing] | "SSAPY 전공 자바반 11기"
-
+- SSAFYIcial(SSAFY 기자단) 11기
 ```
 ### ✨ Award
 **ACM-ICPC 학교별 예선(2022)**
