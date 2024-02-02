@@ -29,7 +29,7 @@
 [2023.09-2024.02] | "대학생IT연합동아리 SOPT 서버파트: spring 33기"
 - 33rd APPZAM "SOPETIT" (우수상🥇) Server Leader
 
-[2024.01-ing] | "SSAPY 전공 자바반 11기"
+[2024.01-ing] | "SSAFY 전공 자바반 11기"
 - SSAFYIcial(SSAFY 기자단) 11기
 ```
 ### ✨ Award
