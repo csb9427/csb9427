@@ -9,7 +9,7 @@
 #### Sopetit
 - **설명:** 캐릭터와 함께하는 사소한 루틴으로 만드는 마음습관
 - **기간:** 2023년 12월 - ing
-- **역할:** 서버 리드 개발자 / 서버 개발 및 파트 계획 수립 회의 진행
+- **역할:** spring 서버 리드 개발자 / spring 서버 개발 및 파트 계획 수립 회의 진행
 - **스토어 배포:** [App Store](#) | [Google Play](#)
 
 #### Growthook
@@ -19,9 +19,20 @@
 - **스토어 배포:** [App Store](https://apps.apple.com/kr/app/%EA%B7%B8%EB%A1%9C%EC%91%A5/id6476508028) | [Google Play](#)
 
 -----------------------
+
+### ✨ Award
+**ACM-ICPC 학교별 예선(2022)**
+2023 10월 우수상 수상
+
+**ACM-ICPC 학교별 예선(2023)**
+2023 10월 대상 수상
+
+**구름톤 8기 in JEJU(2023.11.29 ~ 2023.12.1)**
+구름 기업상(최우수상) 수상
+
+
 ### 🚀 Activity
 ```shell
-
 
 [2021.6-2021.12] | "교내 알고리즘 동아리 ALCUK"
 
@@ -37,7 +48,7 @@
 - 31rd SOPKATON "찌릿" (최우수상🥈) Server Leader
 - 31rd APPZAM "HARA" (최우수상🥈) Server Leader
 
-[2023.03-2023.08] | "대학생IT연합동아리 SOPT 기획파트 32기"
+[2023.03-2023.08] | "대학생IT연합동아리 SOPT 기획파트 32기: 팀장/기획"
 - 32rd SOPKATON "소문나" (대상🥇) Team Leader
 - 32rd SOPKATON "소문나" (인기상🥇) Team Leader
 - 32rd APPZAM "PUZZLING" (최우수상🥈) Team Leader
@@ -45,15 +56,9 @@
 [2023.09-2024.02] | "대학생IT연합동아리 SOPT 서버파트: spring 33기"
 - 33rd APPZAM "SOPETIT" (우수상🥇) Server Leader
 
+[2023.11-2023.12] | "구름톤 8기 in JEJU: 팀장/기획"
+- 8기 9oormthon in JEJU "로그하맨" (구름기업상🥇) Team Leader
+
 [2024.01-ing] | "SSAFY 전공 자바반 11기"
 - SSAFYIcial(SSAFY 기자단) 11기
 ```
-### ✨ Award
-**ACM-ICPC 학교별 예선(2022)**
-2023 10월 우수상 수상
-
-**ACM-ICPC 학교별 예선(2023)**
-2023 10월 대상 수상
-
-**구름톤 8기 in JEJU(2023.11.29 ~ 2023.12.1)**
-기획자로 참여 최우수상 수상
