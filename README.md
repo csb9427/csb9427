@@ -3,6 +3,22 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=csb9427&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=csb9427)](https://solved.ac/csb9427)
 ----------------------------------------
+
+### 🌟 Major Projects
+
+#### Sopetit
+- **설명:** 캐릭터와 함께하는 사소한 루틴으로 만드는 마음습관
+- **기간:** 2023년 12월 - ing
+- **역할:** 서버 리드 개발자 / 서버 개발 및 파트 계획 수립 회의 진행
+- **스토어 배포:** [App Store](#) | [Google Play](#)
+
+#### Growthook
+- **설명:** 일상 속 인사이트를 기록하고 계획으로 연결해 성장하는 생산성 서비스
+- **기간:** 2023년 7월 - ing
+- **역할:** 팀 리더 / 기획자
+- **스토어 배포:** [App Store](https://apps.apple.com/kr/app/%EA%B7%B8%EB%A1%9C%EC%91%A5/id6476508028) | [Google Play](#)
+
+-----------------------
 ### 🚀 Activity
 ```shell
 
