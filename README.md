@@ -16,7 +16,7 @@
 - **설명:** 일상 속 인사이트를 기록하고 계획으로 연결해 성장하는 생산성 서비스
 - **기간:** 2023년 7월 - ing
 - **역할:** 팀 리더 / 기획자
-- **스토어 배포:** [App Store](https://apps.apple.com/kr/app/%EA%B7%B8%EB%A1%9C%EC%91%A5/id6476508028) | [Google Play](#)
+- **스토어 배포:** [App Store](https://apps.apple.com/kr/app/%EA%B7%B8%EB%A1%9C%EC%91%A5/id6476508028) | [Google Play](https://play.google.com/store/apps/details?id=com.growthook.aos)
 
 -----------------------
 
