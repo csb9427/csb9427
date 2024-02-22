@@ -3,7 +3,7 @@
 
 
 [![seungbin's github stats](https://github-readme-stats.vercel.app/api?username=csb9427&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csb9427&layout=compact&hide=jupyter%20notebook&theme=transparent&show_icons=true&line_height=18&title_color=F8418B&bord3D3D&text_color=8C9196)](https://github.com/csb9427/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csb9427&layout=compact&hide=jupyter%20notebook&theme=transparent&show_icons=true&line_height=18&title_color=F8418B&bord3D3D&text_color=8C9196)](https://github.com/anuraghazra/github-readme-stats)
 ----------------------------------------
 
 ### 🌟 Major Projects
