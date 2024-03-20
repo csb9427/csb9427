@@ -12,7 +12,7 @@
 - **설명:** 캐릭터와 함께하는 사소한 루틴으로 만드는 마음습관
 - **기간:** 2023년 12월 - ing
 - **역할:** spring 서버 리드 개발자 / spring 서버 개발 및 파트 계획 수립 회의 진행
-- **스토어 배포:** [App Store](https://apps.apple.com/kr/app/%EC%86%8C%ED%94%84%ED%8B%B0-%EA%B0%80%EC%9E%A5-%EC%82%AC%EC%86%8C%ED%95%9C-%EC%8A%B5%EA%B4%80-%EB%A3%A8%ED%8B%B4-%EC%84%B1%EC%9E%A5-%EC%95%B1/id6476357728) | [Google Play](#)
+- **스토어 배포:** [App Store](https://apps.apple.com/kr/app/%EC%86%8C%ED%94%84%ED%8B%B0-%EA%B0%80%EC%9E%A5-%EC%82%AC%EC%86%8C%ED%95%9C-%EC%8A%B5%EA%B4%80-%EB%A3%A8%ED%8B%B4-%EC%84%B1%EC%9E%A5-%EC%95%B1/id6476357728) | [Google Play](https://play.google.com/store/apps/details?id=com.sopetit.softie&hl=ko-KR)
 
 #### Growthook
 - **설명:** 일상 속 인사이트를 기록하고 계획으로 연결해 성장하는 생산성 서비스
