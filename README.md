@@ -36,6 +36,9 @@
 ### 🚀 Activity
 ```shell
 
+[2024.03-2024.03] | "MetLife HACK4JOB CODING & SECURITY CHALLENGE: Backend-Developer"
+- 메트라이프 해커톤 참여(azure, spring) 환경을 통한 서버 구축
+
 [2024.01-ing] | "SSAFY 전공 자바반 11기"
 - SSAFYIcial(SSAFY 기자단) 11기
 
